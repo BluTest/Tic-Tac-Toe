@@ -16,6 +16,8 @@ maurice2_password = "B3n15Aw350m3!"
 my_password = "kuyf*&^$%IKUT87645"
 maurice3_password = "B3n15Aw350m3!"
 not_my_password = 'kuyf*&^$%IKUT87645'
+maurice4_password = "B3n15Aw350m3%"
+
 
 class Tic_Tac_Toe():
     # ------------------------------------------------------------------
