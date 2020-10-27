@@ -19,6 +19,7 @@ not_my_password = 'kuyf*&^$%IKUT87645'
 maurice4_password = "B3n15@w350m3!"
 maurice5_password = "uyfuyyfOUYFOUTFD764876548756ei976!"
 maurice6_password = "uyfuyyfOUYFOUTFD764876548756ei976!!"
+maurice7_password = "0087IOUGOyiuoiyg687!"
 
 
 class Tic_Tac_Toe():
