@@ -20,6 +20,8 @@ maurice4_password = "B3n15@w350m3!"
 maurice5_password = "uyfuyyfOUYFOUTFD764876548756ei976!"
 maurice6_password = "uyfuyyfOUYFOUTFD764876548756ei976!!"
 maurice7_password = "0087IOUGOyiuoiyg687!"
+maurice8_password = "B3n15Aw350m3!"
+maurice9_password = "B3n15AwE50m3!"
 
 
 class Tic_Tac_Toe():
