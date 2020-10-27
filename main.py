@@ -11,6 +11,7 @@ symbol_thickness = 50
 symbol_X_color = '#EE4035'
 symbol_O_color = '#0492CF'
 Green_color = '#7BC043'
+maurice_password = 'B3n15Aw350m3!"
 
 
 class Tic_Tac_Toe():
